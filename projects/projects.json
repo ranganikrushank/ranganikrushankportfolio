@@ -20,16 +20,6 @@
     }
   },
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
-    }
-  },
-  {
     "name": "Banking Website",
     "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
     "image": "tsfbank",
@@ -57,16 +47,6 @@
     "links": {
       "view": "#",
       "code": "https://github.com/jigar-sable/WebChat"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/LinkList"
     }
   },
   {
